@@ -49,7 +49,6 @@ proyek-spa/
         │       └── UserModel.php # Model Data Autentikasi User
         └── spark                # CLI Executable File Backend
 ```
-
 4. Kode Sumber Implementasi Kunci
    
 A. Sisi Backend: app/Config/Routes.php
