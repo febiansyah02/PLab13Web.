@@ -49,7 +49,7 @@ proyek-spa/
         │       └── UserModel.php # Model Data Autentikasi User
         └── spark                # CLI Executable File Backend
 ```
-4. Kode Sumber Implementasi Kunci
+## 4. Kode Sumber Implementasi Kunci
    
 A. Sisi Backend: app/Config/Routes.php
 
@@ -111,7 +111,7 @@ router.beforeEach((to, from, next) => {
 });
 ```
 
-5. Langkah Menjalankan & Pengujian Aplikasi
+## 5. Langkah Menjalankan & Pengujian Aplikasi
    
 Langkah 1: Aktivasi Database MySQL
 
