@@ -142,7 +142,8 @@ Langkah 3: Eksekusi Pengujian Frontend SPA
 
 3. Uji Coba Autentikasi: Masukkan kredensial database (admin / admin123) ke form login putih yang muncul. Klik Masuk Aplikasi. Data session token otomatis tersimpan, tautan menu berubah menjadi Logout, dan halaman tabel CRUD artikel langsung terbuka sempurna.
 
-Dokumentasi:
+## Dokumentasi:
+
 <img width="959" height="539" alt="Cuplikan layar 2026-06-18 185008" src="https://github.com/user-attachments/assets/b1442b8d-c9db-4943-957d-3de4ceee2212" />
 <img width="959" height="539" alt="Cuplikan layar 2026-06-18 185028" src="https://github.com/user-attachments/assets/b9f898fe-f243-43c9-9588-62ca3c0913f4" />
 <img width="959" height="539" alt="Cuplikan layar 2026-06-18 185050" src="https://github.com/user-attachments/assets/48dcdfd7-0dec-4397-8537-c3937f904b58" />
